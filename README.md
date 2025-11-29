@@ -52,6 +52,6 @@
 
 Создаём цикл в котором сравниваем id пользователей из visit_log.csv и purchases
 
-Если id одинаковые в обоих файлах то записываем id, source и category в файл funnel.csv
+Если id одинаковые то записываем id, source и category в файл funnel.csv
 
 Выводим записанные строки
